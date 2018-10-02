@@ -1,0 +1,15 @@
+{
+  "name": "docx-to-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rudolph Koegelenberg <rudolph.koegelenberg@gmail.com> (http://www.rudolphk.co.za)",
+  "license": "ISC",
+  "dependencies": {
+    "mammoth": "^1.4.6"
+  }
+}
